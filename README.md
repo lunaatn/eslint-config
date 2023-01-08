@@ -1,6 +1,6 @@
-# @antfu/eslint-config
+# @golddigger/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@antfu/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@antfu/eslint-config)
+[![npm](https://img.shields.io/npm/v/@golddigger/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@golddigger/eslint-config)
 
 - Single quotes, no semi
 - Auto fix for formatting (aimed to be used standalone without Prettier)
@@ -15,14 +15,14 @@
 ### Install
 
 ```bash
-pnpm add -D eslint @antfu/eslint-config
+pnpm add -D eslint @golddigger/eslint-config
 ```
 
 ### Config `.eslintrc`
 
 ```json
 {
-  "extends": "@antfu"
+  "extends": "@golddigger"
 }
 ```
 
@@ -64,21 +64,21 @@ Type aware rules are enabled when a `tsconfig.eslint.json` is found in the proje
 process.env.ESLINT_TSCONFIG = 'tsconfig.json'
 
 module.exports = {
-  extends: '@antfu'
+  extends: '@golddigger'
 }
 ```
 
 ## Extended Reading
 
-Learn more about the context - [Why I don't use Prettier](https://antfu.me/posts/why-not-prettier).
+Learn more about the context - [Why I don't use Prettier](https://golddigger.me/posts/why-not-prettier).
 
 ## Check Also
 
-- [antfu/dotfiles](https://github.com/antfu/dotfiles) - My dotfiles
-- [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings
-- [antfu/ts-starter](https://github.com/antfu/ts-starter) - My starter template for TypeScript library
-- [antfu/vitesse](https://github.com/antfu/vitesse) - My starter template for Vue & Vite app
+- [golddigger/dotfiles](https://github.com/golddigger/dotfiles) - My dotfiles
+- [golddigger/vscode-settings](https://github.com/golddigger/vscode-settings) - My VS Code settings
+- [golddigger/ts-starter](https://github.com/golddigger/ts-starter) - My starter template for TypeScript library
+- [golddigger/vitesse](https://github.com/golddigger/vitesse) - My starter template for Vue & Vite app
 
 ## License
 
-[MIT](./LICENSE) License &copy; 2019-PRESENT [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License &copy; 2019-PRESENT [Anthony Fu](https://github.com/golddigger)
