@@ -1,6 +1,6 @@
 {
   "name": "@golddigger/eslint-config",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "golddigger's ESLint config",
   "author": "gold digger<2254317552@qq.com> (https://github.com/lunaatn/)",
   "license": "MIT",
