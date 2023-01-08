@@ -1,6 +1,6 @@
 {
   "name": "@golddigger/eslint-config-monorepo",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": true,
   "packageManager": "pnpm@7.1.0",
   "author": "gold digger <2254317552@qq.com> (https://github.com/lunaatn)",
