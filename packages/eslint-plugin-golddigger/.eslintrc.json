@@ -1,0 +1,6 @@
+{
+  "extends": "@golddigger",
+  "plugins": [
+    "golddigger"
+  ]
+}

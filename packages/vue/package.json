@@ -1,0 +1,26 @@
+{
+  "name": "@golddigger/eslint-config-vue",
+  "version": "0.1.1",
+  "description": "",
+  "author": "gold digger <2254317552@qq.com> (https://github.com/lunaatn/)",
+  "license": "MIT",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@golddigger/eslint-config-basic": "workspace:*",
+    "@golddigger/eslint-config-ts": "workspace:*",
+    "eslint-plugin-vue": "^9.8.0",
+    "local-pkg": "^0.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
