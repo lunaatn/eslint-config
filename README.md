@@ -67,18 +67,3 @@ module.exports = {
   extends: '@golddigger'
 }
 ```
-
-## Extended Reading
-
-Learn more about the context - [Why I don't use Prettier](https://golddigger.me/posts/why-not-prettier).
-
-## Check Also
-
-- [golddigger/dotfiles](https://github.com/golddigger/dotfiles) - My dotfiles
-- [golddigger/vscode-settings](https://github.com/golddigger/vscode-settings) - My VS Code settings
-- [golddigger/ts-starter](https://github.com/golddigger/ts-starter) - My starter template for TypeScript library
-- [golddigger/vitesse](https://github.com/golddigger/vitesse) - My starter template for Vue & Vite app
-
-## License
-
-[MIT](./LICENSE) License &copy; 2019-PRESENT [Anthony Fu](https://github.com/golddigger)
